@@ -1,0 +1,5 @@
+{
+  "name": "ArtPulse Curator",
+  "description": "An AI-powered art gallery that curates thematic exhibitions from user-submitted artworks using Gemini. Features an upload interface, a curator dashboard for AI theme generation, and a public exhibition view.",
+  "requestFramePermissions": []
+}
